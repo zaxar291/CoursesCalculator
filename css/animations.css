@@ -1,0 +1,46 @@
+@keyframes deletepicture {
+    0% {
+        transform:rotate(180deg);
+        height: 25px;
+    }
+    10% {
+        transform:rotate(360deg);
+        height: 20px;
+    }
+    20% {
+        transform:rotate(540deg);
+        height: 25px;
+    }
+    30% {
+        transform:rotate(720deg);
+        height: 20px;
+    }
+    40% {
+        transform:rotate(900deg);
+        height: 25px;
+    }
+    50% {
+        transform:rotate(1080deg);
+        height: 20px;
+    }
+    60% {
+        transform:rotate(900deg);
+        height: 25px;
+    }
+    70% {
+        transform:rotate(720deg);
+        height: 20px;
+    }
+    80% {
+        transform:rotate(540deg);
+        height: 25px;
+    }
+    90% {
+        transform:rotate(360deg);
+        height: 20px;
+    }
+    100% {
+        transform:rotate(180deg);
+        height: 25px;
+    }
+}
